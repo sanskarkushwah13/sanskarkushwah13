@@ -33,6 +33,6 @@ I am a Computer Science researcher specializing in **Generative Adversarial Netw
 
 ### 📬 Connect with me
 - [cite_start]📧 [sanskarkushwah13@gmail.com](mailto:sanskarkushwah13@gmail.com) [cite: 419]
-- 💼 [LinkedIn Profile Link]
+- 💼 [LinkedIn Profile Link : https://www.linkedin.com/in/sanskarkushwah13/
 - 📺 [YouTube Channel](https://www.youtube.com/channel/UCtbt0QUkL8ygmKiZV5cxfA)
 - [cite_start]📍 National Institute of Technology, Srinagar
